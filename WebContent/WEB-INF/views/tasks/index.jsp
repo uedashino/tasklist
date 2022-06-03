@@ -21,7 +21,6 @@
             </c:forEach>
         </ul>
 
-        <p><a href="${pageContext.request.contextPath}/new">新規タスク</a></p>
 
         <div id="pagination">
             （全 ${tasks_count} 件）<br />
